@@ -3,12 +3,14 @@ Python ile yapılmış basit bir hesap makinesi.
 
 Yüzde hesaplamak istediğin zaman 
 
-SAYI yazın.
+ÖRNEK
+
+100 yazın.
 
 * (çarpı) tuşuna basın.
 
-2. SAYI yazın.
+10 yazın.
 
 % tuşuna basın.
 
-Sonuç görünecektir.
+Sonuç 10 olarak görünecektir.
