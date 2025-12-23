@@ -1,4 +1,4 @@
-# basic-calculator
+# basic-calculator (YZ)
 Python ile yapılmış basit bir hesap makinesi.
 
 Yüzde hesaplamak istediğiniz zaman 
